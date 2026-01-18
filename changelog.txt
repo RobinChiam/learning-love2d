@@ -1,0 +1,4 @@
+2026-01-18
+Started Project for Love2D Learning, changes will be logged and documented here.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
